@@ -5,6 +5,6 @@ Python Developer Path
 Installation:
 pip install -r requirements.txt
 
-Go to directory
+Go to directory Hangman/task/hangman/ and run
 
-Hangman/task/hangman/ and run hangman.py
+hangman.py
